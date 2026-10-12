@@ -97,7 +97,7 @@ http://localhost/TugasWeb-Pertemuan8-CRUD/
 
 ## Screenshot Aplikasi
 
-![Aplikasi](screenshots/daftar-produk.png)
+![Aplikasi](Screenshot_TR8_Aplikasi.png)
 
 ## Catatan
 
